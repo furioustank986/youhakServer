@@ -1,3 +1,104 @@
-[18:54:02] [main/ERROR]: Failed to load properties from file: server.properties
-[18:54:02] [main/WARN]: Failed to load eula.txt
-[18:54:02] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[19:28:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:28:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:28:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:28:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:28:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:28:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:28:26] [main/INFO]: Reloading ResourceManager: Default
+[19:28:27] [Worker-Main-11/INFO]: Loaded 7 recipes
+[19:28:27] [Worker-Main-11/INFO]: Loaded 1137 advancements
+[19:28:31] [main/INFO]: [STDERR]: Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
+[19:28:31] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:28:31] [Server thread/INFO]: Loading properties
+[19:28:31] [Server thread/INFO]: Default game type: SURVIVAL
+[19:28:31] [Server thread/INFO]: Generating keypair
+[19:28:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:28:31] [Server thread/INFO]: Using default channel type
+[19:28:31] [Server thread/INFO]: Preparing level "world"
+[19:28:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:28:32] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:28:37] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[19:28:37] [Worker-Main-8/INFO]: Preparing spawn area: 68%
+[19:28:38] [Worker-Main-12/INFO]: Preparing spawn area: 75%
+[19:28:38] [Worker-Main-11/INFO]: Preparing spawn area: 79%
+[19:28:39] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[19:28:39] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[19:28:40] [Worker-Main-12/INFO]: Preparing spawn area: 88%
+[19:28:40] [Worker-Main-13/INFO]: Preparing spawn area: 92%
+[19:28:41] [Worker-Main-12/INFO]: Preparing spawn area: 95%
+[19:28:41] [Server thread/INFO]: Time elapsed: 9884 ms
+[19:28:41] [Server thread/INFO]: Done (10.023s)! For help, type "help"
+[19:29:21] [Server thread/INFO]: Expected ':'
+[19:29:21] [Server thread/INFO]: ...{Dimension=-1}] at @s run gamerule keepinventory true<--[HERE]
+[19:29:56] [Server thread/INFO]: Incorrect argument for command
+[19:29:56] [Server thread/INFO]: ... gamerule keepinventory true<--[HERE]
+[19:31:30] [User Authenticator #1/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
+[19:31:30] [Server thread/INFO]: furioustanks[/127.0.0.1:50719] logged in with entity id 245 at (187.19012408232044, 65.0, 192.25946727784816)
+[19:31:30] [Server thread/INFO]: furioustanks joined the game
+[19:31:35] [Server thread/INFO]: furioustanks lost connection: Disconnected
+[19:31:35] [Server thread/INFO]: furioustanks left the game
+[19:31:36] [User Authenticator #2/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
+[19:31:36] [Server thread/INFO]: furioustanks[/127.0.0.1:50723] logged in with entity id 248 at (187.19012408232044, 65.0, 192.25946727784816)
+[19:31:36] [Server thread/INFO]: furioustanks joined the game
+[19:31:51] [Server thread/INFO]: [furioustanks: Set own game mode to Creative Mode]
+[19:32:15] [Server thread/INFO]: furioustanks has made the advancement [Ice Bucket Challenge]
+[19:32:40] [Server thread/INFO]: furioustanks has made the advancement [We Need to Go Deeper]
+[19:32:49] [Server thread/INFO]: [furioustanks: Gamerule keepInventory is now set to: true]
+[19:33:00] [Server thread/INFO]: furioustanks fell out of the world
+[19:33:00] [Server thread/INFO]: [furioustanks: Killed furioustanks]
+[19:33:04] [Server thread/INFO]: [furioustanks: Gamerule keepInventory is now set to: true]
+[19:33:25] [Server thread/INFO]: furioustanks fell out of the world
+[19:33:25] [Server thread/INFO]: [furioustanks: Killed furioustanks]
+[19:33:48] [Server thread/INFO]: furioustanks fell out of the world
+[19:33:48] [Server thread/INFO]: [furioustanks: Killed furioustanks]
+[19:34:14] [Server thread/INFO]: furioustanks has made the advancement [The End?]
+[19:34:14] [Server thread/WARN]: furioustanks moved too quickly! -82.8662367517484,-15.454681792762827,-192.57427207808772
+[19:34:14] [Server thread/WARN]: furioustanks moved too quickly! -82.8662367517484,-15.454681792762827,-192.57427207808772
+[19:34:14] [Server thread/WARN]: furioustanks moved too quickly! -82.8662367517484,-15.454681792762827,-192.57427207808772
+[19:34:15] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:34:15] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[19:34:17] [Server thread/INFO]: [furioustanks: Gamerule keepInventory is now set to: true]
+[19:34:19] [Server thread/INFO]: furioustanks fell out of the world
+[19:34:19] [Server thread/INFO]: [furioustanks: Killed furioustanks]
+[19:36:41] [Server thread/INFO]: [furioustanks: Removed 134 items from player furioustanks]
+[19:36:43] [Server thread/INFO]: furioustanks fell out of the world
+[19:36:43] [Server thread/INFO]: [furioustanks: Killed furioustanks]
+[19:36:47] [Server thread/INFO]: [furioustanks: Set own game mode to Survival Mode]
+[19:36:48] [Server thread/INFO]: furioustanks lost connection: Disconnected
+[19:36:48] [Server thread/INFO]: furioustanks left the game
+[20:14:11] [User Authenticator #3/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
+[20:14:11] [Server thread/INFO]: furioustanks[/127.0.0.1:50779] logged in with entity id 4485 at (184.5, 64.0, 188.5)
+[20:14:11] [Server thread/INFO]: furioustanks joined the game
+[20:16:48] [Server thread/INFO]: furioustanks has made the advancement [Monster Hunter]
+[20:17:43] [Server thread/INFO]: furioustanks has made the advancement [Sweet Dreams]
+[20:21:31] [Server thread/INFO]: furioustanks has made the advancement [Stone Age]
+[20:23:58] [Server thread/INFO]: furioustanks has made the advancement [Getting an Upgrade]
+[20:25:45] [Server thread/INFO]: furioustanks has made the advancement [Acquire Hardware]
+[20:41:18] [Server thread/INFO]: furioustanks has made the advancement [Suit Up]
+[20:44:05] [Server thread/INFO]: furioustanks has made the advancement [Isn't It Iron Pick]
+[20:53:41] [Server thread/INFO]: furioustanks has made the advancement [A Seedy Place]
+[21:15:32] [Server thread/INFO]: furioustanks has made the advancement [Tactical Fishing]
+[21:16:53] [Server thread/INFO]: furioustanks has made the advancement [Hot Stuff]
+[21:43:25] [Server thread/INFO]: furioustanks lost connection: Disconnected
+[21:43:25] [Server thread/INFO]: furioustanks left the game
+[23:37:50] [Server thread/INFO]: Stopping the server
+[23:37:50] [Server thread/INFO]: Stopping server
+[23:37:50] [Server thread/INFO]: Saving players
+[23:37:50] [Server thread/INFO]: Saving worlds
+[23:37:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:37:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:37:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
